@@ -2,8 +2,8 @@
   - Solve by sight
 * Level 1 (Corners)
   - Place proper corners in place in any orientation, then:
-  R1-B1-R-B
-  - Spin top when piece properly aligns
+  R1-B1-R-B (repeat until corner aligns to proper orientation)
+  - Spin top when piece properly aligns until all corners are in place
 * Level two
    (Top to Left)
    U1-L1-U-L-U-F-U1-F1
@@ -19,4 +19,3 @@
    (Repeat until corners are in place, front right will stay stationary)
 * Last corners (Colors will be in place but not in proper orientation)
    R1-B1-R-B
-
